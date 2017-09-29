@@ -1,0 +1,23 @@
+html, body {
+  background: url(../images/bg-landing-slabs.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+  body{
+    font-family: 'Roboto', sans-serif;
+  }
+
+
+h1.logo{
+  background-image: url(../images/slabs.png);
+  background-repeat: no-repeat;
+  text-indent: -90000px;
+  width: 200px;
+  height: 266px;
+  position: absolute;
+  left: 50%;
+  margin-left: -100px;
+}
